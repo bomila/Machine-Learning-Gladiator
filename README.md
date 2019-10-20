@@ -1,4 +1,4 @@
-This project is awesome for 3 main reasons:
+
 
 First, you’ll build intuition for model-to-problem fit. Which models are robust to missing data? Which models handle categorical features well? Yes, you can dig through textbooks to find the answers, but you’ll learn better by seeing it in action.
 
